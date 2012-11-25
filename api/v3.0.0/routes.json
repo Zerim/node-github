@@ -788,7 +788,7 @@
                 "$number": null,
                 "title": {
                     "type": "String",
-                    "required": true,
+                    "required": false,
                     "validation": "",
                     "invalidmsg": "",
                     "description": ""
